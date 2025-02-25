@@ -1,0 +1,14 @@
+{
+  "ID": "C07E4E15D18048B7A98E6B4DF72466E5",
+  "ActionKeyword": "tw",
+  "IsGlobal": false,
+  "Name": "Terraria Wiki",
+  "Author": "East_Arctica",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/East_Arctica/PowerToysRunPluginTerrariaWiki",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.TerrariaWiki.dll",
+  "IcoPathDark": "Images\\favicon.png",
+  "IcoPathLight": "Images\\favicon.png",
+  "DynamicLoading": false
+}
